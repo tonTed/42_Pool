@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 3fae6347701e60a9a3e1a8db9a309da042e702c6 tonted <yddetco@gmail.com> 1613868401 -0500	initial pull
+3fae6347701e60a9a3e1a8db9a309da042e702c6 3fae6347701e60a9a3e1a8db9a309da042e702c6 tonted <yddetco@gmail.com> 1613868417 -0500	checkout: moving from master to ted
+3fae6347701e60a9a3e1a8db9a309da042e702c6 a0a149acb10fff993e5a8190cb24304108f1533a tonted <yddetco@gmail.com> 1613877715 -0500	commit: max & min numbers puts, refactoring
+a0a149acb10fff993e5a8190cb24304108f1533a 3fae6347701e60a9a3e1a8db9a309da042e702c6 tonted <yddetco@gmail.com> 1613877734 -0500	checkout: moving from ted to master
+3fae6347701e60a9a3e1a8db9a309da042e702c6 a0a149acb10fff993e5a8190cb24304108f1533a tonted <yddetco@gmail.com> 1613877750 -0500	checkout: moving from master to ted
+a0a149acb10fff993e5a8190cb24304108f1533a 3fae6347701e60a9a3e1a8db9a309da042e702c6 tonted <yddetco@gmail.com> 1613877809 -0500	checkout: moving from ted to master
+3fae6347701e60a9a3e1a8db9a309da042e702c6 a0a149acb10fff993e5a8190cb24304108f1533a tonted <yddetco@gmail.com> 1613877813 -0500	merge ted: Fast-forward
+a0a149acb10fff993e5a8190cb24304108f1533a a0a149acb10fff993e5a8190cb24304108f1533a tonted <yddetco@gmail.com> 1613877832 -0500	checkout: moving from master to ted
+a0a149acb10fff993e5a8190cb24304108f1533a a0a149acb10fff993e5a8190cb24304108f1533a tonted <yddetco@gmail.com> 1613879230 -0500	checkout: moving from ted to ted
+a0a149acb10fff993e5a8190cb24304108f1533a f1d0043441751ddaad62c6c95110c0f084c20fa8 tonted <yddetco@gmail.com> 1613879382 -0500	commit: ft_is_in_...
+f1d0043441751ddaad62c6c95110c0f084c20fa8 2011da720862968286fe3bb909874518a89fdc1d tonted <yddetco@gmail.com> 1613883135 -0500	commit: second_step_inprogress
+2011da720862968286fe3bb909874518a89fdc1d a0a149acb10fff993e5a8190cb24304108f1533a tonted <yddetco@gmail.com> 1613883145 -0500	checkout: moving from ted to master
+a0a149acb10fff993e5a8190cb24304108f1533a 2011da720862968286fe3bb909874518a89fdc1d tonted <yddetco@gmail.com> 1613883149 -0500	merge ted: Fast-forward
+2011da720862968286fe3bb909874518a89fdc1d 2011da720862968286fe3bb909874518a89fdc1d tonted <yddetco@gmail.com> 1613883181 -0500	checkout: moving from master to ted
+2011da720862968286fe3bb909874518a89fdc1d 2011da720862968286fe3bb909874518a89fdc1d tonted <yddetco@gmail.com> 1614040402 -0500	checkout: moving from ted to master
+2011da720862968286fe3bb909874518a89fdc1d 0b5c32fe67ab3f6c7b22270f9b54b4bb4d2af4c5 tonted <yddetco@gmail.com> 1614040407 -0500	pull: Fast-forward

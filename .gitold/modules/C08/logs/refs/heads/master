@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 54c951e0ed78d338db0c2a4235a7bc32e98163ad tonted <yddetco@gmail.com> 1614040219 -0500	clone: from https://github.com/tonTed/42_C08.git
+54c951e0ed78d338db0c2a4235a7bc32e98163ad 5eaf4ee9ceddf4e29f2d4a20de7381bbd6ceaaf1 tonted <yddetco@gmail.com> 1614040558 -0500	commit: ex00 ok
+5eaf4ee9ceddf4e29f2d4a20de7381bbd6ceaaf1 641f4eb0773f059ffec4f28373b8322a47622d41 tonted <yddetco@gmail.com> 1614041646 -0500	commit: ex01 works
+641f4eb0773f059ffec4f28373b8322a47622d41 615f417fed90829138663765d02b3b624b898703 tonted <yddetco@gmail.com> 1614041754 -0500	commit: ex01 add \n
+615f417fed90829138663765d02b3b624b898703 dcee7d30b161d4bcf284e359180d837ae14b14f3 tonted <yddetco@gmail.com> 1614042121 -0500	commit: ex02 works
+dcee7d30b161d4bcf284e359180d837ae14b14f3 3ab7d8c3c9280434bccf670c0efaa97f9cf683ed tonted <yddetco@gmail.com> 1614042775 -0500	commit: ex04 works
+3ab7d8c3c9280434bccf670c0efaa97f9cf683ed 9f70ad485dfea728fe7825aaf7c7566113912734 tonted <yddetco@gmail.com> 1614044281 -0500	commit: ex04 inProgress
+9f70ad485dfea728fe7825aaf7c7566113912734 0c49ed831ed776e54f1746e70b2ef1ba57586c59 tonted <yddetco@gmail.com> 1614044380 -0500	commit: tps
+0c49ed831ed776e54f1746e70b2ef1ba57586c59 c3db17eed74a8ea8cdf2fb7c733937570d441f85 tonted <yddetco@gmail.com> 1614210426 -0500	pull: Fast-forward
+c3db17eed74a8ea8cdf2fb7c733937570d441f85 4fc5229861dda36ddcffad3e05732233cbf4d2f0 tonted <yddetco@gmail.com> 1614225025 -0500	commit: ex04 & ex05 in progress
+4fc5229861dda36ddcffad3e05732233cbf4d2f0 0878fd7e5490de44751fd335ff9189927f992344 tonted <yddetco@gmail.com> 1614344867 -0500	commit: ex04 totest
+0878fd7e5490de44751fd335ff9189927f992344 a332145bee332a1580cf023e3ade13b304311b65 tonted <yddetco@gmail.com> 1614345370 -0500	commit: ex05 totest
+a332145bee332a1580cf023e3ade13b304311b65 7c3aef2e3a9a12da56c6aab1090b467ff221e123 tonted <yddetco@gmail.com> 1614346799 -0500	commit: ex04 ex05 testing, ToDo >> fix sgmentation fault
+7c3aef2e3a9a12da56c6aab1090b467ff221e123 68681da3eddaa75a941b8ee16bf52dbc5f29a805 tonted <yddetco@gmail.com> 1614387380 -0500	pull origin master: Fast-forward
+68681da3eddaa75a941b8ee16bf52dbc5f29a805 371b1209bd69048c4aa9f19ed712adf6b60eef63 tonted <yddetco@gmail.com> 1614793858 -0500	pull origin master: Fast-forward

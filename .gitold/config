@@ -1,0 +1,49 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/tonTed/42quebec.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[submodule "C00"]
+	url = https://github.com/tonTed/42_C00.git
+	active = true
+[submodule "C01"]
+	url = https://github.com/tonTed/42_C01.git
+	active = true
+[submodule "C02"]
+	url = https://github.com/tonTed/42_C02.git
+	active = true
+[submodule "C03"]
+	url = https://github.com/tonTed/42_C03.git
+	active = true
+[submodule "C04"]
+	url = https://github.com/tonTed/42_C04.git
+	active = true
+[submodule "C05"]
+	url = https://github.com/tonTed/42_C05.git
+	active = true
+[submodule "C06"]
+	url = https://github.com/tonTed/42_C06.git
+	active = true
+[submodule "C07"]
+	url = https://github.com/tonTed/42_C07.git
+	active = true
+[remote "school"]
+	url = git@vogsphere.42quebec.com:vogsphere/intra-uuid-80958eb3-bfee-4bf9-80cf-c7b98463127c-3470275
+	fetch = +refs/heads/*:refs/remotes/school/*
+[submodule "C08"]
+	url = https://github.com/tonTed/42_C08.git
+	active = true
+[submodule "C09"]
+	url = https://github.com/tonTed/42_C09.git
+	active = true
+[submodule "R02"]
+	url = https://github.com/tonTed/42_RUSH02.git
+	active = true

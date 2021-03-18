@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 a6e47fbe0ad1a56ba0f2acf7abf1fe1814511397 tonted <yddetco@gmail.com> 1614211447 -0500	commit (initial): newfiles
+a6e47fbe0ad1a56ba0f2acf7abf1fe1814511397 4ab8d303ea77eae32f061c06d6a427b569485fb2 tonted <yddetco@gmail.com> 1614225654 -0500	commit: ex00 done
+4ab8d303ea77eae32f061c06d6a427b569485fb2 9c91229f732d26aee3eb61d1a3a16db3171c26a6 tonted <yddetco@gmail.com> 1614227387 -0500	commit: ex01 done
+9c91229f732d26aee3eb61d1a3a16db3171c26a6 e65a6ec812c6b17946bef0012b36153b32f7a866 tonted <yddetco@gmail.com> 1614227831 -0500	commit: ex02 ex03 ex04 formated
+e65a6ec812c6b17946bef0012b36153b32f7a866 2c38dfbbf838ab023372d7e4ce9e87119a4d4932 tonted <yddetco@gmail.com> 1614616099 -0500	pull origin master: Fast-forward
+2c38dfbbf838ab023372d7e4ce9e87119a4d4932 ea930bb522d00ed1ae09f393d3c0c6174277df5b tonted <yddetco@gmail.com> 1614642426 -0500	commit: ex05 Makefile
+ea930bb522d00ed1ae09f393d3c0c6174277df5b bd286e85fbad0bf301be81d9f70fa74c7fd465c4 tonted <yddetco@gmail.com> 1614644454 -0500	commit: makefile with lib
+bd286e85fbad0bf301be81d9f70fa74c7fd465c4 c11cb066c7c5d70fedab8f92c9708f522f29f4e0 tonted <yddetco@gmail.com> 1614644951 -0500	commit: ft_operations done
+c11cb066c7c5d70fedab8f92c9708f522f29f4e0 331069bd439a7ece4230841508df7448dbeaa0c8 tonted <yddetco@gmail.com> 1614651315 -0500	commit: struct fuct, typedef pointer funt, & creation tab of fucntiom
+331069bd439a7ece4230841508df7448dbeaa0c8 b9f11d3f6b619e24477a115cf82c4cc0a456fa86 tonted <yddetco@gmail.com> 1614655279 -0500	commit: ex05 atoi
+b9f11d3f6b619e24477a115cf82c4cc0a456fa86 8a05ff6e42c1113302d0ad7449d90ea31d298dcd tonted <yddetco@gmail.com> 1614655734 -0500	commit: ex05 putnbr
+8a05ff6e42c1113302d0ad7449d90ea31d298dcd 633bfdcfe5608c43b26e4fe38b3568668d5c2425 tonted <yddetco@gmail.com> 1614658145 -0500	commit: ex05 end
+633bfdcfe5608c43b26e4fe38b3568668d5c2425 653a5b082be798f900957f70d3b1d1a1fbf181ed tonted <yddetco@gmail.com> 1614724956 -0500	pull origin master: Fast-forward

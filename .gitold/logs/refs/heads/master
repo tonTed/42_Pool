@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 4380fecd2a27aa65d080fb1e0357cef8f949174d tonted <yddetco@gmail.com> 1613701663 -0500	clone: from https://github.com/tonTed/42quebec.git
+4380fecd2a27aa65d080fb1e0357cef8f949174d 397becb195eea27e90e5f8983882953e9af0cec8 tonted <yddetco@gmail.com> 1613701711 -0500	commit: remove submodules
+397becb195eea27e90e5f8983882953e9af0cec8 fe62bcad7cd17ae1f5cc1a70e967c64f6a6c75c5 tonted <yddetco@gmail.com> 1613701848 -0500	commit: add submodules C00 to C07
+fe62bcad7cd17ae1f5cc1a70e967c64f6a6c75c5 db3ae447242959e3a9936169980ac367f6ee3358 tonted <yddetco@gmail.com> 1613704725 -0500	commit: subjects
+db3ae447242959e3a9936169980ac367f6ee3358 dbf65aacfc3e0c43881c12c23b2e5e1b5d246361 tonted <yddetco@gmail.com> 1613704841 -0500	commit: README
+dbf65aacfc3e0c43881c12c23b2e5e1b5d246361 d620546b528201492c9767378c6738b63a157a1b tonted <yddetco@gmail.com> 1614210508 -0500	pull: Fast-forward
+d620546b528201492c9767378c6738b63a157a1b c8546711b6a54c08a655f8350ae85590de7bdf17 tonted <yddetco@gmail.com> 1614210518 -0500	commit: ?
+c8546711b6a54c08a655f8350ae85590de7bdf17 8c14fa275ce61f910ccf1b5541fc7de4e47e8c12 tonted <yddetco@gmail.com> 1614227915 -0500	commit: new submodules
+8c14fa275ce61f910ccf1b5541fc7de4e47e8c12 543fa44ff3392aa321ab8f416165cff84a061079 tonted <yddetco@gmail.com> 1614228020 -0500	commit: update file gitmodule
+543fa44ff3392aa321ab8f416165cff84a061079 f60b37c5743fbb11d77d52fdf17939c5ae7b6443 tonted <yddetco@gmail.com> 1614346823 -0500	commit: new commits on submodules
+f60b37c5743fbb11d77d52fdf17939c5ae7b6443 5419819d14829c9b7d59e64a2c809c6c9a6a2ab1 tonted <yddetco@gmail.com> 1614387408 -0500	commit: submodules
+5419819d14829c9b7d59e64a2c809c6c9a6a2ab1 61d780bb39f4955489b66ba16f1ab1ab35d15eaa tonted <yddetco@gmail.com> 1614475421 -0500	commit: add R02
+61d780bb39f4955489b66ba16f1ab1ab35d15eaa fcf689a39d0df8cffb75a9e605ce25c847186d1d tonted <yddetco@gmail.com> 1614658346 -0500	commit: submodules maj
+fcf689a39d0df8cffb75a9e605ce25c847186d1d a1da16963b23d2c69623749f8ecff365a34dc062 tonted <yddetco@gmail.com> 1614658363 -0500	pull: Merge made by the 'recursive' strategy.
+a1da16963b23d2c69623749f8ecff365a34dc062 88b46b4ed821cb51494b59926c093f77ba585df4 tonted <yddetco@gmail.com> 1614735328 -0500	commit: sub
+88b46b4ed821cb51494b59926c093f77ba585df4 bb0c8d98aa1698050b9e12bffce8d0be45bf405f tonted <yddetco@gmail.com> 1614825946 -0500	commit: maj sub
